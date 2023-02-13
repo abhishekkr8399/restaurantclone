@@ -1,2 +1,2 @@
-# restaurantclone
-cloned reataurand
+# restaurant-clone
+cloned reataurant website
